@@ -37,5 +37,4 @@ This project generates your name in the format of GitHub contributions throughou
 ## Acknowledgements
 
 - Inspired by the GitHub contribution heatmap visual style.
-- Special thanks to all contributors and open-source libraries used in this project.
 
